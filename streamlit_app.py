@@ -1,9 +1,10 @@
 
 import streamlit
 
-streamlit.title('Raphy"s Diner')
+streamlit.title("Raphy's Diner")
 
 streamlit.header('Breakfast Menu')
-streamlit.text('Egg Omellete, Hash Brown, Corned beef Hash')
-streamlit.text('Garlic rice with egg on top')
-streamlit.text('Pork Sisig')
+streamlit.text('🥣Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞Avocado Toast')
